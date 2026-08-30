@@ -25,8 +25,8 @@ No additional libraries or packages need to be installed.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/hangman-python.git
-   cd hangman-python
+   git clone https://github.com/avnish-007/python-reference-projects
+   cd python-reference-projects
    ```
 
 2. **Run the game:**
